@@ -1,7 +1,7 @@
 # webrtc-demo
 
 - webrtc-hv is a demo for hv node, creating an offer.
-- webrtc-simple-node is a demo for normal node. Answer an offer from a brower or a node(node-only.js).
+- webrtc-simple-node is a demo for normal node, answering an offer from a brower or a node(node-only.js).
 
 使用方法：
 先启动webrtc-hv，在web界面点击create offer。这时会将生成的链接Id上传的到signaling数据库。
